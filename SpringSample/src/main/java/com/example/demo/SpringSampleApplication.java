@@ -8,6 +8,8 @@ public class SpringSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSampleApplication.class, args);
+		
+		System.out.println("Springプロジェクトが起動しました");
 	}
 
 }
